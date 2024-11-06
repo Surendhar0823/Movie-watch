@@ -285,6 +285,7 @@ nav{
 }
 .contentt p{
     font-size: 14px;
+    overflow:scroll;
 }
 .disp{
     width: 100%;
