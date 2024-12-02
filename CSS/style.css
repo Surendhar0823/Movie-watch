@@ -296,7 +296,7 @@ nav{
    width:auto ;
 }
 .dis4{
-    margin:20px ;
+    /* margin:20px ; */
 }
 .service{
     flex-direction: column;
@@ -305,6 +305,15 @@ nav{
 .dis3{
    
     padding: 5px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ser3{
+    text-align: left;
 }
 
 
